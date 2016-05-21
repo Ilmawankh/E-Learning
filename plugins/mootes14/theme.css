@@ -2,18 +2,18 @@ body {
  background: #FFFFFF;
 }
 h1 {
- color: #fa8f1c;
+ color: red;
 }
 .user-menu header h1 {
  color: #fa8f1c;
 }
 h2 {
- color: #fa8f1c;
- background-color: #7a8a94;
+ color: red;
+ background-color: blue;
 }
 .header-main {
- color: #fa8f1c;
- background: #EDEDED;
+ color: red;
+ background: blue;
 }
 #page-title {
  text-shadow: none;
@@ -22,12 +22,12 @@ h2 {
  background: #FFFFFF;
 }
 .user-menu h2 {
- color: #4b565d;
+ color: green;
  background: #ffffff;
  box-shadow: none;
 }
 .user-menu .nav-item > a {
- color: #fa8f1c;
+ color: red;
 }
 .user-menu .nav-item .plugin-ico,
 .user-menu .nav-item .course-ico {
@@ -39,6 +39,6 @@ h2 {
 }
 
 .user-menu header {
- color: #fa8f1c;
- background: #EDEDED ;
+ color: red;
+ background: green ;
 }
