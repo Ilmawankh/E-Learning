@@ -17,7 +17,7 @@
 "log_length" : 100,
 "dev_debug": false,
 "extra_js": [],
-"sitesurl": "share.its.ac.id",
+"siteurl": "share.its.ac.id",
 "notifications_enabled": true,
 "gcmpn": "694767596569",
 "reportbugmail": "ilmawankh@gmail.com"
